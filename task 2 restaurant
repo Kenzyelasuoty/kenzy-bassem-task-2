@@ -1,0 +1,35 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title>chefdine.com</title>
+    </head>
+    <body>
+        <h1 style="font-size:50px;"><b>welcome to ChefDine!</b></h1>
+        <p><b>where tasty, delicious food is waiting for you.</b></p>
+        <p>ChefDine is a worldwide restaurant with a worldwide cuisine , established in 1988 by the italian chef, franchisco aguiro, along with his friends santiago jose and marco alessandro <br> to bring delicious and fancy dishes all over the world <b>just for you.</b></p>
+         <h2 style="font-size:30px;"></h2><b><i>founders of DineChef</i></b></h2>
+         <table>
+            <tr>
+                <th><img src="chef1.jpg" width="200px" height="200px"></th>
+                <th><img scr="chef 2.jpg" width="200px" height="200px"></th>
+                <th><img scr="chef 3.jpg" width="200px" height="200px"></th>
+            </tr>
+            <tr>
+                <td><b>francisco aguiro</b></td>
+                <td><b>santiago jose</b></td>
+                <td><b>marco alessandro</b></td>
+            </tr>
+        </table>
+        <h3 style="font-size:30px;"><b><i>our location</i></b></h3>
+        <p><b>1273 volta street, milano, italy</b></p>
+        <h3><b>for resevations , please fill in the following form:</b></h3>
+        <form>
+            <label for="fname">first name:</label><br>
+            <input type="text" id="fname" name="fname" value=""><br>
+            <label for="1name">last name:</label><br>
+            <input type="text" id="1name" name="1name" value=""><br>
+        </form>
+        <P><b>project by: kenzy bassem mostafa ahmed</b></P>
+
+    </body>
+</html>
